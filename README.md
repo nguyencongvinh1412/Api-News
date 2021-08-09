@@ -10,6 +10,7 @@ I) Giới thiệu chung
     - Các model bao gồm đầy đủ các chức năng: tìm kiếm(một hoặc nhiều document cùng lúc), tìm kiếm các doc đã xóa, tìm kiếm các doc theo phân trang, update, delete(không hoàn toàn),restore, deleted vĩnh viễn
 
 II) Chi tiết
+
     1) Thể Loại:
         a) Hiển thị toàn bộ danh sách Thể Loại 
             url : https://news-api1412.herokuapp.com/theloai/showAll
