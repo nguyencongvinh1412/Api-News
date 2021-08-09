@@ -26,6 +26,6 @@ route.get('/restoreById/:id', controller.restoreById);
 // pemaneterly delete
 route.get('/pemaneterly-delete-by-id/:id', controller.pemaneterlyDelete);
 
-route.get('/addAll', controller.addAll);
+//route.get('/addAll', controller.addAll);
 
 module.exports = route;
