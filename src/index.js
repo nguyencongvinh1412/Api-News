@@ -4,6 +4,8 @@ const app = express();
 // const express = require('body-parser');
 const port = process.env.PORT || 3000;
 const mongoose = require('mongoose');
+const dotenv = require('dotenv');
+dotenv.config();
 
 // connect database
 const connect = require('../src/configs/connest');
